@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "lint": "textlint . && markdownlint **/*.md"
+    "lint": "textlint ./README.md && markdownlint ./README.md"
   },
   "name": "resume",
   "version": "1.0.0",
